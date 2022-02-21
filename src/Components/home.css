@@ -1,0 +1,10 @@
+.butn
+{
+    color: white;
+    background: cornflowerblue;
+    padding: 10px 40px;
+    margin: 10px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
